@@ -9,3 +9,7 @@ div{
     display: flex;
     justify-content: space-between;
 }
+body{
+    
+    background-color: rgb(243, 19, 146);
+}
